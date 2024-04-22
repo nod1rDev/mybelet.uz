@@ -9,7 +9,7 @@ import Phero from "./Components/Phero";
 export default function Home() {
   return (
     <>
-      <div className="h-[830px] z-10 bg-[#327BD2] hidden md:block  bg-top bg-[url(/shine.png)]">
+      <div className="h-[830px] z-10 bg-[#327BD2] hidden md:block bg-no-repeat  bg-top bg-[url(/shine.png)]">
         <Header />
         <Hero />
         <img

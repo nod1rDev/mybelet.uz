@@ -2,7 +2,7 @@ import React from "react";
 
 function Map() {
   return (
-    <div className="bg-[#327BD2] w-full hidden md:block bg-[url(/Map.png)] bg-no-repeat h-[711px] pt-10">
+    <div className="bg-[#327BD2] w-full hidden md:block  bg-center bg-[url(/Map.png)] bg-no-repeat h-[711px] pt-10">
       <div className="max-w-[1228px] mx-auto pl-10 flex gap-[150px] flex-col items-center ">
         <span className="text-white font-bold text-[33px] leading-[25px]">
           О нас
